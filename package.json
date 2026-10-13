@@ -11,6 +11,8 @@
     "deploy": "gh-pages -d build"
   },
   "dependencies": {
+    "framer-motion": "^14.2.0",
+    "lucide-react": "^1.56.0",
     "react": "^19.2.8",
     "react-dom": "^19.2.8"
   },
